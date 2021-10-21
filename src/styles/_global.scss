@@ -11,3 +11,11 @@ main {
 button {
     font-size: 1.5rem;
 }
+
+.background {
+    background-image: url("../images/test.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 300px;
+}
